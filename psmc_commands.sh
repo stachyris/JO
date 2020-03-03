@@ -24,3 +24,5 @@ $PSMC_path/psmc -N25 -t15 -r5 -p "4+25*2+4+6" -o JO1_diploid.psmc JO1_diploid.ps
 $PSMC_path/utils/psmc2history.pl JO1_diploid.psmc | $PSMC_path/utils/history2ms.pl > ms-cmd.sh
 
 $PSMC_path/utils/psmc_plot.pl diploid JO1_diploid.psmc
+
+/home/harshakumar/Meghana_New_Dir/softs/psmc/utils/psmc_plot.pl -u 2.8e-09 -g 2 -p test_plot2 JO1_diploid.psmc
