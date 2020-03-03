@@ -1,0 +1,1 @@
+java -jar /home/harshakumar/Meghana_New_Dir/softs/GenomeAnalysisTK-3.8-1-0-gf15c1c3ef/GenomeAnalysisTK.jar -T DepthOfCoverage -nt 30 -R /home/harshakumar/Meghana_New_Dir/Reference_Genomes_NCBI/GCF_003259725.1_athCun1_genomic.fna -I JO1.adaptersmarked.aligned.merged.test2.bam -o depth_stats --omitIntervalStatistics --omitDepthOutputAtEachBase
