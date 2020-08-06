@@ -1,1 +1,0 @@
-~/Meghana_New_Dir/softs/jellyfish-2.2.6/bin/jellyfish count -t 8 -C -m 19 -s 5G -o 19mer_out --min-qual-char=? <(zcat /home/harshakumar/Meghana_New_Dir/WGS_Data_and_Analysis/WGS_data_raw/SOT_R1.fastq.gz) <(zcat /home/harshakumar/Meghana_New_Dir/WGS_Data_and_Analysis/WGS_data_raw/SOT_R2.fastq.gz)
