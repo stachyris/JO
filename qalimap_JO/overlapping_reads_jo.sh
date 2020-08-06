@@ -1,1 +1,0 @@
-~/Meghana_New_Dir/softs/qualimap_v2.2.1/qualimap bamqc -bam /home/harshakumar/Meghana_New_Dir/WGS_Data_and_Analysis/gatk/JO1.adaptersmarked.aligned.merged.test2.bam --collect-overlap-pairs --outdir /home/harshakumar/Meghana_New_Dir/WGS_Data_and_Analysis/gatk/qualimap_JO/ --java-mem-size=8G
