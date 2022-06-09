@@ -18,6 +18,6 @@ Climatic oscillations over the Quaternary have had a lasting impact on speciesâ€
 ![PSMC Plots for two Owlets](https://user-images.githubusercontent.com/61734552/152089406-c36a5c94-a541-44b3-9278-a04a57c9995f.jpg)
 
 
-Now published in Frontiers in Ecology and Evolution : https://www.frontiersin.org/articles/10.3389/fevo.2020.608339/full
+Find the full published paper here: https://www.frontiersin.org/articles/10.3389/fevo.2020.608339/full
 
 Cite this article as " Natesh M, Vinay KL, Ghosh S, Jayapal R, Mukherjee S, Vijay N and Robin VV (2020) Contrasting Trends of Population Size Change for Two Eurasian Owlet Speciesâ€”Athene brama and Glaucidium radiatum From South Asia Over the Late Quaternary. Front. Ecol. Evol. 8:608339. doi: 10.3389/fevo.2020.608339 "
